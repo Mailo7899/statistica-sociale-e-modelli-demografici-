@@ -6,7 +6,7 @@ I progetti combinano analisi descrittive, approcci longitudinali e metodi statis
 
 
 
-## 1. PC e nuove tecnologie nelle famiglie italiane  
+## PROJECT_1. PC e nuove tecnologie nelle famiglie italiane  
 **Un’analisi demografica sul possesso del computer**
 
 ### Overview
@@ -49,7 +49,7 @@ Il lavoro si articola in tre fasi principali:
 
 ---
 
-## 2. Traiettorie lavorative e transizione alla vita adulta negli Stati Uniti  
+## PROJECT_2. Traiettorie lavorative e transizione alla vita adulta negli Stati Uniti  
 **Un’analisi di sequenza**
 
 ### Overview
@@ -74,7 +74,7 @@ L’analisi ha permesso di individuare **quattro cluster distinti** di traiettor
 
 ---
 
-## 3. Demografia sociale: mobilità e migrazioni in Italia  
+## PROJECT_3. Demografia sociale: mobilità e migrazioni in Italia  
 **Un confronto tra il 2002 e il 2019**
 
 ### Obiettivo
