@@ -4,7 +4,7 @@ Questo repository raccoglie una selezione di progetti accademici e di analisi de
 I progetti combinano analisi descrittive, approcci longitudinali e metodi statistici avanzati.
 CORSI UNIVERSITARI :
 - ANALISI E MODELLI DEMOGRAFICI
-- DEMOGRAFIA SOCIALE
+- DEMOGRAFIA SOCIALE/ STATISTICA SOCIALE
 
 ## PROJECT_1 PC e nuove tecnologie nelle famiglie italiane  
 **Un’analisi demografica sul possesso del computer**
