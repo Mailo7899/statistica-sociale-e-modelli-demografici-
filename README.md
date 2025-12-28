@@ -3,10 +3,7 @@
 Questo repository raccoglie una selezione di progetti accademici e di analisi dei dati sviluppati nell’ambito delle scienze sociali, con particolare attenzione ai processi demografici, alle traiettorie di vita e ai fenomeni migratori.  
 I progetti combinano analisi descrittive, approcci longitudinali e metodi statistici avanzati.
 
-
-
-
-## PROJECT_1. PC e nuove tecnologie nelle famiglie italiane  
+## PROJECT_1 PC e nuove tecnologie nelle famiglie italiane  
 **Un’analisi demografica sul possesso del computer**
 
 ### Overview
@@ -43,13 +40,9 @@ Il lavoro si articola in tre fasi principali:
 - Dati incompleti per alcune annualità (2013 e 2016)
 - Le previsioni sono sensibili alle ipotesi sui tassi futuri di adozione tecnologica
 
-
-
-
-
 ---
 
-## PROJECT_2. Traiettorie lavorative e transizione alla vita adulta negli Stati Uniti  
+## PROJECT_2 Traiettorie lavorative e transizione alla vita adulta negli Stati Uniti  
 **Un’analisi di sequenza**
 
 ### Overview
@@ -74,7 +67,7 @@ L’analisi ha permesso di individuare **quattro cluster distinti** di traiettor
 
 ---
 
-## PROJECT_3. Demografia sociale: mobilità e migrazioni in Italia  
+## PROJECT_3 Demografia sociale: mobilità e migrazioni in Italia  
 **Un confronto tra il 2002 e il 2019**
 
 ### Obiettivo
