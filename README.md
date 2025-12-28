@@ -94,13 +94,92 @@ Il campione è rappresentativo della popolazione immigrata residente in Lombardi
 L’analisi ha consentito di osservare cambiamenti nel profilo socio-demografico e nelle condizioni di vita dei migranti nel corso del tempo.
 
 ---
+## PROJECT_3B. Costruzione e validazione di scale psicometriche  
+**Un’analisi di statistica sociale su rabbia, colpa, ottimismo e ricerca di sensazioni**
 
-## Tools & Methods
-- Analisi statistica descrittiva
-- Analisi longitudinale
-- Sequence Analysis
-- Cluster Analysis
-- Dati ufficiali (ISTAT, NLS, ORIM)
+### Overview
+Questo progetto di statistica sociale è dedicato alla **costruzione, validazione e analisi di scale psicometriche**, con l’obiettivo di misurare diverse dimensioni psicologiche e comportamentali attraverso questionari standardizzati.  
+L’analisi si concentra su tre principali strumenti: la **scala di Thurstone sulla rabbia**, la **scala LOT-R sull’ottimismo** e una **scala Likert per l’esperienza di brivido e avventura (sensation seeking)**.
+
+### Obiettivi
+- Costruire scale affidabili a partire da item selezionati
+- Valutare la **coerenza interna** delle scale
+- Analizzare le **differenze per sesso e per wave temporale**
+- Studiare la distribuzione dei punteggi e gli indicatori sintetici
+
+### Metodologia
+Il progetto utilizza diversi approcci di costruzione e validazione delle scale:
+- **Metodo di Thurstone (intervalli apparentemente uguali)** per la scala della rabbia verso l’esterno
+- Calcolo di **punteggi ponderati** sulla base dei pesi assegnati dai giudici
+- Valutazione della **coerenza interna** tramite **Alpha di Cronbach**
+- Analisi descrittive (media, mediana, deviazione standard, distribuzioni percentuali)
+- Confronti per **sesso** e per **wave** longitudinali
+
+### Scale analizzate
+**Scala della rabbia verso l’esterno**
+- Costruita a partire da 20 item selezionati per bassa variabilità nei giudizi
+- Misura l’espressione della rabbia fisica e verbale
+- Calcolo di un punteggio ponderato
+- Nessuna differenza significativa tra maschi e femmine
+- Tendenza alla riduzione del punteggio medio nelle wave successive
+
+**Sub-scala della colpa**
+- Costruita con 4 item
+- Punteggio ponderato basato sui pesi dei giudici
+- Punteggi medi più elevati tra le femmine
+- Riduzione del punteggio nel tempo
+
+**Indice di inibizione/disinibizione**
+- Derivato dal rapporto tra rabbia e colpa
+- Non emergono differenze significative per sesso o wave
+
+**Scala LOT-R (Life Orientation Test – Revised)**
+- Utilizzo di 6 item relativi all’ottimismo
+- Ricodifica degli item formulati in senso inverso
+- Alpha di Cronbach pari a 0.746 (affidabilità accettabile)
+- I maschi mostrano una lieve tendenza a livelli di ottimismo più elevati
+
+**Scala Likert Esperienze di brivido e avventura**
+- Costruita con 14 item
+- Ricodifica delle risposte per valorizzare l’esperienza vissuta
+- Alpha di Cronbach pari a 0.735
+- Differenze significative tra maschi e femmine, con punteggi più elevati nei maschi
+- Nessuna variazione rilevante tra le wave
+
+### Risultati principali
+- Le scale mostrano **buoni livelli di affidabilità**
+- Emergono differenze di genere coerenti con la letteratura
+- Le analisi longitudinali evidenziano stabilità o lievi variazioni temporali
+- Gli strumenti risultano adeguati per l’analisi di dimensioni psicologiche e comportamentali in ambito sociale
+
+
+
+---
+
+## 📊 Data Sources
+- **ISTAT** – Dati ufficiali per analisi demografiche e socio-economiche
+- **National Longitudinal Surveys (NLS – USA)** – Dati longitudinali su istruzione, lavoro e traiettorie occupazionali
+- **ORIM** – Osservatori regionali su integrazione e mobilità sociale
+- Questionari standardizzati in ambito di **statistica sociale**
+
+## 📈 Statistical & Analytical Methods
+- **Analisi statistica descrittiva** (media, mediana, deviazione standard, distribuzioni)
+- **Analisi longitudinale** e confronti temporali
+- **Sequence Analysis** per lo studio delle traiettorie occupazionali
+- **Cluster Analysis** per l’identificazione di pattern di carriera
+- **Scomposizione di Kitagawa** (effetto composizione vs effetto tasso)
+- **Previsioni demografiche** a medio-lungo termine
+- **Costruzione e validazione di scale psicometriche**
+  - Metodo di **Thurstone**
+  - Scale **Likert**
+  - Punteggi ponderati
+  - **Alpha di Cronbach** per l’affidabilità
+
+## 🛠️ Tools & Software
+- **STATA** (statistica, demografia, sequence analysis, clustering)
+- **SPSS** (statistica sociale, scale psicometriche)
+- **Microsoft Excel** (pre-processing e controllo dati)
+- **Git & GitHub** (versionamento e documentazione)
 
 ---
 
