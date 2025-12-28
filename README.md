@@ -179,7 +179,6 @@ Il progetto utilizza diversi approcci di costruzione e validazione delle scale:
 - **STATA** (statistica, demografia, sequence analysis, clustering)
 - **SPSS** (statistica sociale, scale psicometriche)
 - **Microsoft Excel** (pre-processing e controllo dati)
-- **Git & GitHub** (versionamento e documentazione)
 
 ---
 
