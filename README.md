@@ -32,7 +32,7 @@ Il lavoro si articola in tre fasi principali:
 2. **Scomposizione di Kitagawa** del tasso stratificato per valutare l’effetto composizione ed effetto tasso
 3. **Previsioni demografiche** del possesso di PC nel periodo 2024–2044, considerando sia tassi fissi che tassi variabili
 
-###📈 Risultati principali
+### 📈 Risultati principali
 - Persistono **forti divari digitali** legati all’età, alla struttura familiare e alla posizione socio-occupazionale
 - Le famiglie con figli mostrano livelli di possesso significativamente più elevati rispetto a single e anziani
 - Emergono marcate **differenze territoriali**, con un vantaggio strutturale del Centro-Nord rispetto al Sud
@@ -45,7 +45,7 @@ Il lavoro si articola in tre fasi principali:
 
 ---
 
-##📁 PROJECT_2 Traiettorie lavorative e transizione alla vita adulta negli Stati Uniti  
+## 📁 PROJECT_2 Traiettorie lavorative e transizione alla vita adulta negli Stati Uniti  
 **Un’analisi di sequenza**
 
 ### 🔍 Overview
@@ -65,7 +65,7 @@ L’obiettivo del progetto è descrivere l’evoluzione dello stato occupazional
 - Analisi dei cluster per l’identificazione di pattern occupazionali
 - Approccio olistico alle traiettorie di vita lavorativa
 
-###📈 Risultati
+### 📈 Risultati
 L’analisi ha permesso di individuare **quattro cluster distinti** di traiettorie occupazionali, rappresentativi di diverse modalità di ingresso, stabilizzazione e discontinuità nel mercato del lavoro durante la transizione alla vita adulta.
 
 ---
