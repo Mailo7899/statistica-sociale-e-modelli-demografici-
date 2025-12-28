@@ -1,4 +1,4 @@
-# 🎓 # 📊 Statistica Sociale e Modelli Demografici | Data Analysis Projects
+# 🎓Statistica Sociale e Modelli Demografici | Data Analysis Projects
 
 Questo repository raccoglie una selezione di progetti accademici e di analisi dei dati sviluppati nell’ambito delle scienze sociali, con particolare attenzione ai processi demografici, alle traiettorie di vita e ai fenomeni migratori.  
 I progetti combinano analisi descrittive, approcci longitudinali e metodi statistici avanzati.
